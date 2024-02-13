@@ -1,6 +1,6 @@
-# Terraform setup ==> terraform.io/downloads.html
-
 <a name="readme-top"></a>
+
+# Terraform setup ==> terraform.io/downloads.html
 
 Terraform ==>
 
